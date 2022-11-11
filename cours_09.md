@@ -2,7 +2,7 @@
 ## Retour sur la conférence d'Eidos
 
 ### Intérêt
-Quelle partie de la conférence t'a intéressé le plus? Pourquoi? (2 à 3 lignes) 
+J'ai beaucoup aimé lorsqu'il a mentionné les jeux auxquels il a travaillé, ça a vraiment remis les choses en perspective et nous a montré l'amplitude de l'influence et de la carrière de François.
 
 ### Travail
-Suite à la conférence, aimerais-tu travailler dans le monde du jeu vidéo? Si oui, qu'est-ce qui t'a motivé dans la conférence et si non, pourquoi? (2 à 3 lignes)
+Je suis une personne très créative et j'adore commencer un projet de rien et de le regarder venir en vie au cours du développement. Du coup, j'adorerais travailler dans le domaine du jeu vidéo, surtout dût à mon intérêt pour le développement et de pouvoir intéragir avec les personnes qui jouent aux jeux que je développe.
