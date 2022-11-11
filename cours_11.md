@@ -2,10 +2,10 @@
 ## Rétrospective de la présentation 2
 
 ### Points forts
-Nommer deux points forts de votre présentation. 
+Les points présentés étaient simples et faciles à suivre. De plus, j'ai gardé une approche aimable avec des blagues, comme celle sur le piratage.
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
+J'aurais pu plus me pratiquer afin de moins bégayer et je n'ai pas inclu de GIF humoristique. 
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+J'ai beaucoup aimé la présentation de Omaël à cause de son approche humoristique avec les personnages de Among Us. De plus, créer une machine virtuelle est une notion assez pratique à savoir, alors le tutoriel m'a bel et bien appris quelque chose. 
